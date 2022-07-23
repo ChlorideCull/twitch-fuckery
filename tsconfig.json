@@ -1,0 +1,11 @@
+{
+  "include": ["src/**/*"],
+  "compilerOptions": {
+	"target": "ESNext",
+    "module": "ESNext",
+	"strict": true,
+    "noImplicitAny": true,
+    "sourceMap": true,
+	"moduleResolution": "node"
+  }
+}
